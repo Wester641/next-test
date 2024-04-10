@@ -3,6 +3,7 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import { TheHeader } from "./components/TheHeader";
 import { TheFooter } from "./components/TheFooter";
+// import { Card } from "./components/TheCard";
 
 const inter = Inter({ subsets: ["latin"] });
 

@@ -4,7 +4,7 @@ const TheHeader = () => {
   return (
     <header>
       <div>Hello world</div>
-      <Link href="/">Home</Link>
+      <Link href="/home">Home</Link>
       <Link href="/blog">Blog</Link>
       <Link href="/about">About</Link>
     </header>
